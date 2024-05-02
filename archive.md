@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Archive
+title: Danh sách BHTT
 ---
 
 {% for tag in site.tags %}
