@@ -9,6 +9,14 @@ body {
   font-family: 'Merriweather', serif;
 }
 
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
+  line-height: 18px;
+}
+
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
+  margin-bottom: 18px;
+}
+
 h1,
 h2,
 h3,
