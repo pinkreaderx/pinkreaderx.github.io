@@ -1,0 +1,32 @@
+.site-title {
+  font-family: 'Inter', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Merriweather', serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 500;
+}
+
+a {
+  color: #ff5964;
+}
+
+a:hover {
+  color: #a2212a;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #d63754;
+}
