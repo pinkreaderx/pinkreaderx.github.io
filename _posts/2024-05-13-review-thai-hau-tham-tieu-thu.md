@@ -7,7 +7,7 @@ tags: [Thái Hậu tự xưng là bạn gái cũ của ta, Review]
 
 **Nhân vật chính:** Thái Hậu Liễu Vân trà xanh nhưng nghiêm túc cứng nhắc overthinking x Thẩm Nguyệt Chương tiểu thư cọp con ngỗ nghịch nhưng vô tri khìn khìn đáng iu
 
-**Nhân vật phụ:** Hoàng Đế Lý Kiến Vân, em trai Thẩm Thanh Quyết, em trai Liễu Lục Sinh x Quận Chúa, chị họ Bùi Thượng Du x A Tang (Dàn nhân vật phụ không chỉ có CP nữ x nữ, mà cũng có nam x nữ, các nhân vật phụ cũng đều rất dễ thương)
+**Nhân vật phụ:** Hoàng Đế Lý Kiến Vân, em trai Thẩm Thanh Quyết, em trai Liễu Lục Sinh x Quận Chúa, chị họ Bùi Thượng Du x A Tang (Dàn nhân vật phụ không chỉ có CP nữ x nữ, các nhân vật phụ cũng đều rất dễ thương)
 
 **Cảm xúc sau khi đọc của tui:** nhẹ người, hết stress
 
