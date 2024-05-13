@@ -17,7 +17,11 @@ tags: [Thái Hậu tự xưng là bạn gái cũ của ta, Review]
 
 **Điểm trừ:** Khúc đầu hơi thiếu ngọt, tương tác giữa 2 nhân vật chính hơi ít so với số lượng diễn biến của truyện, chưa đủ thỏa mãn tui, mặc dù vẫn hài vẫn vui. Hơi nhiều nhân vật phụ.
 
-Mặc dù truyện vẫn có chính kịch (mấy thứ cung đình mưu kế rồi chiến tranh chính trị trả thù đồ đó), vẫn được tác giả xây dựng nội dung tỉ mỉ, chỉ có điều tình tiết chính kịch bị mờ nhạt và tua nhanh. Mà tác giả lại tô điểm những tình tiết bên lề xoay quanh mấy trò tào lao của Thẩm Nguyệt Chương =))))))) Cho nên truyện không có cao trào, chỉ thấy các nhân vật làm trò xàm xí, thấy Thẩm tiểu thư với Thái Hậu dễ thương, thấy Thẩm tiểu thư vô tri còn Thái Hậu ngấm ngầm ghen tuông, thấy Thẩm tiểu thư hư đốn bị Thái Hậu la mắng, thấy Thái Hậu dù mồm miệng la mắng nhưng hành động nuông chiều sủng ái Thẩm tiểu thư, thấy Thái Hậu tính kế để nhai nuốt Thẩm tiểu thư, thấy Thẩm tiểu thư với Thái Hậu thê thê gà bông cãi nhau nhảm nhí (cao trào nhất chắc là mấy đoạn gà bông cãi nhau này).
+Mặc dù truyện vẫn có chính kịch (mấy thứ cung đình mưu kế rồi chiến tranh chính trị trả thù đồ đó), vẫn được tác giả xây dựng nội dung tỉ mỉ, chỉ có điều tình tiết chính kịch bị mờ nhạt và tua nhanh. Mà tác giả lại tô điểm những tình tiết bên lề xoay quanh mấy trò tào lao của Thẩm Nguyệt Chương =))))))) Cho nên truyện không có cao trào, chỉ thấy các nhân vật làm trò xàm xí, thấy Thẩm tiểu thư với Thái Hậu dễ thương, thấy Thẩm tiểu thư vô tri còn Thái Hậu ngấm ngầm ghen tuông, thấy Thẩm tiểu thư hư đốn bị Thái Hậu la mắng, thấy Thái Hậu dù mồm miệng la mắng nhưng hành động nuông chiều sủng ái Thẩm tiểu thư, thấy Thái Hậu tính kế để nhai nuốt Thẩm tiểu thư, thấy Thẩm tiểu thư với Thái Hậu thê thê cãi nhau kiểu gà bông ngốc xít nhảm nhí.
+
+Có một điểm nhỏ nhỏ làm mình thích nữa là, dù Thái Hậu có cải nam trang vài lần, dù có thể hiện sự chiếm hữu, dù trong lúc mây mưa, vẫn cho cảm giác Thái Hậu cực kì nữ tính, ngọt ngào, dịu dàng, mà vẫn mạnh mẽ quyền lực á. Còn Thẩm Nguyệt Chương ở với Thái Hậu thì thành con mèo nhỏ rùi nên khỏi nói nữa =)))) Xin lỗi tui chỉ là đứa đam mê sự ngọt ngào nữ tính.
+
+Ngoài ra trên weibo tác giả cũng có đăng một chương H full mlem mlem mà tui dự định sẽ làm hehehehehe
 
 **Nếu phải chấm điểm toàn văn:** 8/10
 
