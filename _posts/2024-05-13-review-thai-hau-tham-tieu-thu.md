@@ -23,23 +23,23 @@ Mặc dù truyện vẫn có chính kịch (mấy thứ cung đình mưu kế r�
 
 <details>
   <summary>Sau đây là cốt truyện chính (SPOILER)</summary>
-  
-Thẩm Nguyệt Chương là tiểu thư ăn chơi lêu lỏng, quái quái dị dị, mặc dù cũng đẹp nhất nhì kinh đô, nhưng tai tiếng nhiều hơn nổi tiếng. Mỗi lần thấy Thẩm Nguyệt Chương bày trò, tui chỉ có thể nghĩ, “Xinh đẹp giàu có xin hãy bình thường” =))))
-
-Liễu Vân là Thái Hậu quyền lực, cũng là bạn thời thơ ấu với Thẩm Nguyệt Chương, hơn khoảng 2-3 tuổi thôi, tất nhiên cũng đẹp ơi là đẹp. Xuất thân danh giá, nhưng gia tộc bị người ta vu oan hãm hại, cha mẹ mất, Liễu Vân được nhà họ Thẩm mua về. Ba Thẩm thấy hai đứa đồng trang lứa, nên quyết định cho Liễu Vân cái danh nghĩa là bạn chơi cùng với Thẩm Nguyệt Chương thay vì là người hầu, mà bé Thẩm tiểu thư lại rất thích Liễu Vân, cũng chưa bao giờ cho phép Liễu Vân làm việc của nha hoàn, mà ngược lại còn muốn cho Liễu Vân một người hầu riêng.
-
-Từ khi còn nhỏ thì tình cảm cả hai đã rất khắng khít. Phần vì bản chất Liễu Vân trà xanh, thấy Thẩm Nguyệt Chương mềm mại đáng yêu dễ dụ, còn là con gái cưng của hai gia tộc quyền lực, định bụng làm thân để dễ bề lợi dụng cho kế hoạch trả thù sau này. Nhưng theo năm tháng, Liễu Vân yêu luôn bé Thẩm. Người ngoài thấy Thẩm Nguyệt Chương tệ hại, không ra gì, nhưng trong mắt Liễu Vân, Thẩm Nguyệt Chương mãi mãi là bé yêu, là ánh mặt trời sáng trưng ấm áp lòng mề =))))))
-
-Nhưng mà tại sao chỉ mình Liễu Vân thấy vậy? Tất nhiên là vì Thẩm tiểu thư ngỗ nghịch hỗn xược với cả thế giới, trừ Liễu Vân ra. Gặp người ngoài thì như con cọp cái, gặp Liễu Vân thì thành mèo con. Miễn là việc Liễu Vân yêu cầu, thì Thẩm Nguyệt Chương sẽ làm theo.
-
-Nhưng mà hai đứa nhỏ vốn dĩ đã có thể mãi mãi vui vẻ như vậy, nếu Liễu Vân không muốn vào cung làm phi tần. 
-
-Liễu Vân có mối thù lớn cần giải quyết, rất tham vọng, Thẩm Nguyệt Chương thì không muốn tách khỏi Liễu Vân, không muốn Liễu Vân vào cung làm phi. Vậy là giận giận dỗi dỗi mấy năm trời không gặp mặt.
-
-Vào cung xong, Kiến Đức Đế cũng chưa từng ép buộc Liễu Vân thị tẩm, chỉ tập trung lo việc nước việc dân.
-
-Mấy năm sau gặp lại, Kiến Đức Đế băng hà, Liễu Vân lên làm Thái Hậu, bạn thơ ấu còn lại của Thẩm Nguyệt Chương là Tam Hoàng Tử Lý Kiến Vân đăng cơ Hoàng Đế.
-
-Gòi, sau đó là câu chuyện tào lao hàng ngày của Thái Hậu và Thẩm tiểu thư =)))))
+<br> 
+  Thẩm Nguyệt Chương là tiểu thư ăn chơi lêu lỏng, quái quái dị dị, mặc dù cũng đẹp nhất nhì kinh đô, nhưng tai tiếng nhiều hơn nổi tiếng. Mỗi lần thấy Thẩm Nguyệt Chương bày trò, tui chỉ có thể nghĩ, “Xinh đẹp giàu có xin hãy bình thường” =))))<br>
+  <br>
+  Liễu Vân là Thái Hậu quyền lực, cũng là bạn thời thơ ấu với Thẩm Nguyệt Chương, hơn khoảng 2-3 tuổi thôi, tất nhiên cũng đẹp ơi là đẹp. Xuất thân danh giá, nhưng gia tộc bị người ta vu oan hãm hại, cha mẹ mất, Liễu Vân được nhà họ Thẩm mua về. Ba Thẩm thấy hai đứa đồng trang lứa, nên quyết định cho Liễu Vân cái danh nghĩa là bạn chơi cùng với Thẩm Nguyệt Chương thay vì là người hầu, mà bé Thẩm tiểu thư lại rất thích Liễu Vân, cũng chưa bao giờ cho phép Liễu Vân làm việc của nha hoàn, mà ngược lại còn muốn cho Liễu Vân một người hầu riêng.<br>
+  <br>
+  Từ khi còn nhỏ thì tình cảm cả hai đã rất khắng khít. Phần vì bản chất Liễu Vân trà xanh, thấy Thẩm Nguyệt Chương mềm mại đáng yêu dễ dụ, còn là con gái cưng của hai gia tộc quyền lực, định bụng làm thân để dễ bề lợi dụng cho kế hoạch trả thù sau này. Nhưng theo năm tháng, Liễu Vân yêu luôn bé Thẩm. Người ngoài thấy Thẩm Nguyệt Chương tệ hại, không ra gì, nhưng trong mắt Liễu Vân, Thẩm Nguyệt Chương mãi mãi là bé yêu, là ánh mặt trời sáng trưng ấm áp lòng mề =))))))<br>
+  <br>
+  Nhưng mà tại sao chỉ mình Liễu Vân thấy vậy? Tất nhiên là vì Thẩm tiểu thư ngỗ nghịch hỗn xược với cả thế giới, trừ Liễu Vân ra. Gặp người ngoài thì như con cọp cái, gặp Liễu Vân thì thành mèo con. Miễn là việc Liễu Vân yêu cầu, thì Thẩm Nguyệt Chương sẽ làm theo.<br>
+  <br>
+  Nhưng mà hai đứa nhỏ vốn dĩ đã có thể mãi mãi vui vẻ như vậy, nếu Liễu Vân không muốn vào cung làm phi tần.<br> 
+  <br>
+  Liễu Vân có mối thù lớn cần giải quyết, rất tham vọng, Thẩm Nguyệt Chương thì không muốn tách khỏi Liễu Vân, không muốn Liễu Vân vào cung làm phi. Vậy là giận giận dỗi dỗi mấy năm trời không gặp mặt.<br>
+  <br>
+  Vào cung xong, Kiến Đức Đế cũng chưa từng ép buộc Liễu Vân thị tẩm, chỉ tập trung lo việc nước việc dân.<br>
+  <br>
+  Mấy năm sau gặp lại, Kiến Đức Đế băng hà, Liễu Vân lên làm Thái Hậu, bạn thơ ấu còn lại của Thẩm Nguyệt Chương là Tam Hoàng Tử Lý Kiến Vân đăng cơ Hoàng Đế.<br>
+  <br>
+  Gòi, sau đó là câu chuyện tào lao hàng ngày của Thái Hậu và Thẩm tiểu thư =)))))
 
 </details>
