@@ -45,7 +45,7 @@ Mà sau đó, Thẩm Nguyệt Chương mới nghe ngóng được tin tức từ
 
 --------
 
-Tân đế đăng cơ, còn mở  n khoa*, ngày công bố kết quả, Thẩm Nguyệt Chương vô cùng hứng khởi, mang theo người hầu Thẩm gia tới tuyển rể.
+Tân đế đăng cơ, còn mở Ân khoa*, ngày công bố kết quả, Thẩm Nguyệt Chương vô cùng hứng khởi, mang theo người hầu Thẩm gia tới tuyển rể.
 
 *(\*): Khoa thi ngoại lệ ở thời phong kiến, mở ra nhân một dịp đặc biệt (Nguồn: Chunom)*
 
