@@ -22,7 +22,7 @@ Mặc dù truyện vẫn có chính kịch (mấy thứ cung đình mưu kế r�
 **Nếu phải chấm điểm toàn văn:** 8/10
 
 <details>
-  <summary>Sau đây là cốt truyện chính (SPOILER)</summary>
+  <summary>Ấn vào đây để xem spoil cốt truyện chính</summary>
 <br> 
   Thẩm Nguyệt Chương là tiểu thư ăn chơi lêu lỏng, quái quái dị dị, mặc dù cũng đẹp nhất nhì kinh đô, nhưng tai tiếng nhiều hơn nổi tiếng. Mỗi lần thấy Thẩm Nguyệt Chương bày trò, tui chỉ có thể nghĩ, “Xinh đẹp giàu có xin hãy bình thường” =))))<br>
   <br>
