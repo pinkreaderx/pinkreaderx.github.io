@@ -8,7 +8,7 @@ Tên truyện: Thái Hậu tự xưng là bạn gái cũ của ta (Thái hậu t
 
 Tác giả: Mãng Bạch (岭白)
 
-Thể loại: Cổ đại, cung đình hầu tước, hoan hỉ oan gia, nhẹ nhàng, ngọt văn, HE
+Thể loại: Cổ đại, cung đình hầu tước, hoan hỉ oan gia, điềm văn, nhẹ nhàng, ngọt văn, HE
 
 Nhân vật chính: Thẩm Nguyệt Chương, Liễu Vân (Cà lơ phất phơ tiểu thư ăn chơi thụ x Mỹ nhân hồ ly tinh hệ trà xanh công)
 
@@ -23,6 +23,7 @@ Lần đầu edit truyện, có sai sót mong mọi người góp ý ạ.
 Tiến độ: tùy khả năng :( hiện tại 2 ngày vừa tra 7749 loại từ điển với translator tui mới làm đc 1 chương. Còn tùy thuộc vào độ bận rộn của mình nữa. Edit khó quá ai cứu tui với huhu.
 
 Link truyện gốc: https://www.jjwxc.net/onebook.php?novelid=7397099
+
 
 -----------------------------------------------------
 
@@ -44,7 +45,7 @@ Mà sau đó, Thẩm Nguyệt Chương mới nghe ngóng được tin tức từ
 
 --------
 
-Tân đế đăng cơ, còn mở Ân khoa*, ngày công bố kết quả, Thẩm Nguyệt Chương vô cùng hứng khởi, mang theo người hầu Thẩm gia tới tuyển rể.
+Tân đế đăng cơ, còn mở  n khoa*, ngày công bố kết quả, Thẩm Nguyệt Chương vô cùng hứng khởi, mang theo người hầu Thẩm gia tới tuyển rể.
 
 *(\*): Khoa thi ngoại lệ ở thời phong kiến, mở ra nhân một dịp đặc biệt (Nguồn: Chunom)*
 
@@ -76,11 +77,11 @@ Liễu Vân đối với đồn đãi này mắt điếc tai ngơ, nhưng nàng 
 
 Kịch nhỏ 1:
 
-Cung nhân: Bệ hạ, không ổn không ổn, Thẩm tiểu thư cùng Quý phi nương nương ở Ngự Hoa Viên cãi nhau rồi!
+Cung nữ: Bệ hạ, không ổn không ổn, Thẩm tiểu thư cùng Quý phi nương nương ở Ngự Hoa Viên cãi nhau rồi!
 
 Ngay khi chuẩn bị đến Ngự Hoa Viên, Hoàng đế lập tức quay đầu: Đi kêu Thái Hậu.
 
-Cung nhân: Kia bệ hạ...
+Cung nữ: Ơ kìa bệ hạ...
 
 Hoàng đế: Trẫm tránh xa một chút, nàng mắng dơ.
 
@@ -88,7 +89,7 @@ Hoàng đế: Trẫm tránh xa một chút, nàng mắng dơ.
 
 Kịch nhỏ 2:
 
-Thẩm tiểu thư ở trong cung cãi nhau với Quý phi, Thái Hậu phạt nàng dọn dẹp thư phòng. Thời gian một tách trà, nữ quan bên người Thái Hậu nhìn mực khô lẫn sách vở lộn xộn trong thư phòng, bất đắc dĩ khuyên dỗ "Thẩm tiểu thư, dù là không có ai canh chừng, nhưng Thái Hậu đã ra chỉ thị như vậy, ngài không thể ít nhiều giả vờ một chút sao?"
+Thẩm tiểu thư ở trong cung cãi nhau với Quý phi, Thái Hậu phạt nàng dọn dẹp thư phòng. Thời gian một tách trà, nữ quan thân cận Thái Hậu nhìn mực khô lẫn sách vở lộn xộn trong thư phòng, bất đắc dĩ khuyên dỗ "Thẩm tiểu thư, dù là không có ai canh chừng, nhưng Thái Hậu đã ra chỉ thị như vậy, ngài không thể ít nhiều giả vờ một chút sao?"
 
 Thẩm Nguyệt Chương vẻ mặt không thể tin tưởng, chỉ vào bàn tính trên bàn hỏi lại, "Giả vờ giả vịt gì chứ, ngươi nhìn xem cái bàn tính này không phải đã được sắp xếp ngay ngắn rồi sao?"
 
@@ -98,9 +99,10 @@ Nữ quan sửng sốt, nhưng Thái Hậu lại điềm đạm dửng dưng.
 
 Nữ quan "......"
 
-Nương nương ngài muốn hay không nhìn xem ngài đang làm gì, đây gọi là dọn dẹp sao?!
+Nương nương ngài có muốn nhìn lại xem bản thân là đang làm gì hay không, đây gọi là dọn dẹp sao?!
 
 Sau này, cung nhân mới của cung Thái Hậu còn phải học thêm mấy từ đồng nghĩa khi vào cung, ví dụ như bàn tính thì là thư phòng, còn súp hoành thánh được gọi là nước canh nấu mì, còn có cấm "Thập Thất"* trong cung.
+
 
 *(\*): Thập Thất công chúa =)))*
 
