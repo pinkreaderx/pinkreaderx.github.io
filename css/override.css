@@ -3,6 +3,10 @@ hr {
   margin-bottom: 20px;
 }
 
+.post-title {
+  line-height: 1.5;
+} 
+
 /* Post navigation links */
 .post_navi {
   display: flex;
