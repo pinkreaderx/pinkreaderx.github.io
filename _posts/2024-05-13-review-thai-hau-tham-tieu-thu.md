@@ -21,9 +21,7 @@ Mặc dù truyện vẫn có chính kịch (mấy thứ cung đình mưu kế r�
 
 Có một điểm nhỏ nhỏ làm mình thích nữa là, dù Thái Hậu có cải nam trang vài lần, dù có thể hiện sự chiếm hữu, dù trong lúc mây mưa, vẫn cho cảm giác Thái Hậu cực kì nữ tính, ngọt ngào, dịu dàng, mà vẫn mạnh mẽ quyền lực á. Còn Thẩm Nguyệt Chương ở với Thái Hậu thì thành con mèo nhỏ khóc thút thít luôn =))))))).
 
-Ngoài ra trên weibo tác giả cũng có đăng một chương H full mlem mlem mà tui dự định sẽ làm hehehehehe
-
-**Nếu phải chấm điểm toàn văn:** 8/10
+**Nếu phải chấm điểm toàn văn:** 7.5/10
 
 <details>
   <summary>Ấn vào đây để xem spoil cốt truyện chính</summary>
