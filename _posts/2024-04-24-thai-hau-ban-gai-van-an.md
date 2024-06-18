@@ -6,7 +6,7 @@ tags: [Thái Hậu tự xưng là bạn gái cũ của ta, Editing]
 #### Giới thiệu
 Tên truyện: Thái Hậu tự xưng là bạn gái cũ của ta (Thái hậu tự xưng thị ngã tiền nữ hữu | 太后自称是我前女友)
 
-Tác giả: Mãng Bạch (岭白)
+Tác giả: tên cũ Mãng Bạch (莽白) - tên mới Lĩnh Bạch (岭白)
 
 Thể loại: Cổ đại, cung đình hầu tước, hoan hỉ oan gia, điềm văn, nhẹ nhàng, ngọt văn, HE
 
@@ -14,15 +14,15 @@ Nhân vật chính: Thẩm Nguyệt Chương, Liễu Vân (Cà lơ phất phơ t
 
 Thị giác tác phẩm: Chủ thụ
 
-QT: Rruan996, truyenwikidich, hotruyen, GGTranslate, Hanzii, Từ điển Hán Nôm. Xin cảm ơn google và các trang web giải nghĩa từ ngữ, thành ngữ Hán Việt =))
+QT: Rruan996, truyenwikidich, hotruyen. Xin cảm ơn GGTranslate, Hanzii, Từ điển Hán Nôm và các trang web giải nghĩa từ ngữ, thành ngữ Hán Việt =))
 
 Tình trạng raw và QT: 89 chương hoàn (85 chương + 4 phiên ngoại)
 
 Lần đầu edit truyện, có sai sót mong mọi người góp ý ạ.
 
-Tiến độ: tùy khả năng :( hiện tại 2 ngày vừa tra 7749 loại từ điển với translator tui mới làm đc 1 chương. Còn tùy thuộc vào độ bận rộn của mình nữa. Edit khó quá ai cứu tui với huhu.
+Tiến độ: 1 tuần 1 đến 2 chương. Tuần nào não tui hoạt động mạnh mẽ thì 3 chương lun =))))
 
-Link truyện gốc: https://www.jjwxc.net/onebook.php?novelid=7397099
+Link truyện gốc: jjwxc - novelid=7397099
 
 
 -----------------------------------------------------
